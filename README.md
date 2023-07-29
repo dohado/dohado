@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dohado
-- 👀 I’m interested in Java coding, Linux and learning new techs.
+- 👀 I’m interested in Java coding, Linux, Docker and learning new techs.
 
 
 <!---
